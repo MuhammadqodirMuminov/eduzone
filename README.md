@@ -3,6 +3,9 @@
 # Demo Version
 https://eduzone-silk.vercel.app/
 
+# Storybook ui components
+https://64294d41818d1828451fd903-uefeafwfrj.chromatic.com/?path=/story/components-advantages--advantage
+
 #Stack
 
 - TypeScript
